@@ -238,9 +238,7 @@ figure {
   width: 100%;
   text-align: left;
   font: normal 16px sans-serif;
-
   padding: 15px;
-  /*margin-top: 80px;*/
 }
 
 .footer-distributed .footer-right{
@@ -262,7 +260,6 @@ figure {
   margin-left: 3px;
   transition: all 0.2s ease-in-out;
 }
-
 
 @media (max-width: 600px) {
   .footer-distributed .footer-right{
